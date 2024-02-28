@@ -29,7 +29,7 @@ foreach ($group in $groups) {
     $result += $groupInfo
 }
 
-# greater exports than china
+# export
 
 $path = "C:\temp"
 
