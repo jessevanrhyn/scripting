@@ -1,1 +1,1 @@
-simple examples of some scripts i've written to help with my and others' daily jobs
+Simple examples of some scripts I've written
